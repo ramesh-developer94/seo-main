@@ -19344,6 +19344,17 @@ header.style-2 .main-menu ul li.menu-item-has-children > i {
     h4 {
     font-size: 18px;
     margin-bottom: 3px;
+  }    
+  header.style-1 .header-logo a img {
+    width: 28%;
+  }
+  .section-title.four h1 {
+    margin-top: 3rem;
+  }
+  .home5-why-choose-section .why-choose-img {
+    position: relative;
+    margin-right: 15px;
+    padding-top: 3rem;
   }
 }
 .testimonial-card3
